@@ -1,2 +1,2 @@
-# Myownlibrary
-Creating a library with bounceOff and isTouching functions
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
